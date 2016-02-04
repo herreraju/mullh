@@ -1,0 +1,13 @@
+body{
+    background-image: url("sitePics/back.jpg");
+    background-repeat: repeat;
+}
+.it-o{
+
+    display:block;
+    position: relative;
+    top: 200px;
+    margin: auto;
+    height: 505px;
+    width: 950px;
+}
